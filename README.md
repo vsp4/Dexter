@@ -10,6 +10,11 @@ Having all your medical record stored at one place has always been a challenge, 
 
 
 Remotely share reports - Reports can be sent to a doctor without visiting the clinic again and again.
+
 Can easily view the medicines needs to be taken at given time
-Share diet-chart easily with your family/cook-
-We plan to use google assistant to easily assist user through voice recognition tasks, also AWS Lambda to easily make it scalable + seamless performance as. We will also be using Blockchain technology to ensure security to it's best.
+
+Share diet-chart easily with your family/cook
+
+We plan to use google assistant to easily assist user through voice recognition tasks, also AWS Lambda to easily make it 
+
+scalable + seamless performance as. We will also be using Blockchain technology to ensure security to it's best.
