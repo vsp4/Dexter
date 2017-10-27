@@ -1,5 +1,5 @@
 # Team - Dexter
-~~Healthify~~
+## ~~Idea - Healthify~~
 
 ## ~~our idea~~
 
@@ -17,6 +17,7 @@ Having all your medical record stored at one place has always been a challenge, 
 4. We plan to use google assistant to easily assist user through voice recognition tasks, also AWS Lambda to easily make it 
 
 5. scalable + seamless performance as. We will also be using Blockchain technology to ensure security to it's best.
+
 <hr/>
 
 # New Idea , New Innovation And Complete Automation
