@@ -33,7 +33,7 @@ your smartcard and if it's in the active state that's it.
 
 ## Advantages
 
-* No more papper and no more cash in hand.
+* No more paper tickets and no more cash in hand.
 
 * Very Fast and reaching high level of accuracy.
 
