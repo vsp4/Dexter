@@ -24,12 +24,13 @@ Having all your medical record stored at one place has always been a challenge, 
 
 ## Bus Ticket Automate System (Ticket-omate)
 
-No more headache of taking bus tickets  or taking the tention for the change . No longer waiting in queue maintaing your
+No more headache of taking bus tickets  or taking the tention for keeping the change . No longer waiting in queue maintaing your
 balance against the inertia. Enter the bus have a seat and exit it. That's it  , Team Dexter will take care of all the 
-rest .Using advance bluetooth enabled (BEACONS) smartcards we will recognize you and your bus-stand at your starting 
-point as well as your destination and payments all through upi's . Ha  No Bus Conductor at all ! .You will  be 
-verified  by  the random ticket checker's .but that's even very simple process of checking  , if you have
-your smartcard and if it's in the active state that's it.
+rest .Using Bluetooth Low Energy (BEACONS) smartcards we will recognize you and your bus-stand at your starting 
+point as well as your destination and payments all automated .Ha! No Bus Conductor at all ! .You will  be 
+verified by the random ticket checker's and that's even a very simple process of checking i.i if you have
+your smartcard and if it's in the active state that's it.Our Smart server ensures that you are on the bus not somewhere
+else and ensures your departure as well.
 
 ## Advantages
 
@@ -39,10 +40,19 @@ your smartcard and if it's in the active state that's it.
 
 * No Bus Conductor Cost.
 
+* Set Dynamic Price of tickets depending upon Date , Rush Hours etc.
+
+* Individual Monitoring of younger ones.
+
+* Track User Data and preferences and use it as you want.
+
 * Defines a complete new way of transit payment.
 
 * Swift User Experience and smooth (butterly) process.
 
+ We have implemented this and will feel honoured if given a chance to represent.
+ 
+ 
 ## Implementation
 * BLE Beacon Sender 
    * at Bus Stop ( Device)
