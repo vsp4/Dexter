@@ -1,0 +1,35 @@
+{
+  "name": "campuskart",
+  "version": "1.0.0",
+  "description": "This is like an e-commerce website for campus",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sjv97mhjn/CampusKart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjv97mhjn/CampusKart/issues"
+  },
+  "homepage": "https://github.com/sjv97mhjn/CampusKart#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.15.5",
+    "express-session": "^1.15.6",
+    "fb": "^2.0.0",
+    "fs": "0.0.1-security",
+    "method-override": "^2.3.10",
+    "moment": "^2.19.1",
+    "mongoose": "^4.11.13",
+    "multer": "^1.3.0",
+    "nodemon": "^1.12.1",
+    "path": "^0.12.7",
+    "request": "^2.83.0"
+  }
+}
