@@ -5980,3 +5980,18 @@ select.bs-select-hidden,select.selectpicker {
         width:920px
     }
 }
+
+
+
+
+@media only screen and (max-device-width: 480px) {
+  #timeline .timeline-badge {
+    display:none;
+  }
+
+  #timeline .timeline-movement .timeline-item {
+    padding: 20px 0;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
